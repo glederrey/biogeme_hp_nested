@@ -103,4 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# Ignore folders
 .idea
+data/GEV_SM/
